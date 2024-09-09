@@ -1,0 +1,4 @@
+- Encrypt text using the Caesar Cipher algorithm.
+- Decrypt text using the Caesar Cipher algorithm.
+- Supports both uppercase and lowercase letters.
+- Preserves non-alphabetic characters (they are not encrypted or decrypted).
